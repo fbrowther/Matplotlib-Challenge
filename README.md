@@ -1,5 +1,5 @@
 # Matplotlib-Challenge
-The efficiency of Pymaceuticals drug Capomulin on reducing the tumor volume of mice over a peried of treatment duration (upto 45 days) was evaluated in comparison to other treatment regimens included in the current study.
+The efficiency of Pymaceuticals drug Capomulin on reducing the tumor volume of mice over a period of treatment duration (upto 45 days) was evaluated in comparison to other treatment regimens included in the current study.
 
 The datasets provided included - (a) Mouse metadata consisting of Mouse ID,	Drug Regimen,	Sex,	Age_months,	Weight (g) and (b) Study_data consisting of Mouse ID, Timepoint,	Tumor Volume (mm3) and	Metastatic Sites.
 
